@@ -1,0 +1,2 @@
+# premium-die-block-001-die-block-milling-cavity-cut
+Tired of losing track of milling parameters and cavity cut specs across sticky notes and scattered files? The Die Block Milling &amp; Cavity Cut Craft Lab turns Notion into your precision die-block command center.  This template eliminates the chaos of managing multiple die block projects by giving you a structured, repeatable workflow. You'll have eve
